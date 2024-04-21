@@ -1,0 +1,1 @@
+Seminarski i prezentacija za predmet sistemi za upravljanje bazama podataka
