@@ -1,1 +1,1 @@
-Seminarski i prezentacija za predmet sistemi za upravljanje bazama podataka
+Repozitorijum za čuvanje seminarskih radova i projekata za predmet na master studijama Sistemi za upravljanje bazama podataka.
